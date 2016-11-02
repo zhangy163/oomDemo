@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oomdemo</string>
+    <string name="title">测试每个app最大内存</string>
+    <string name="content">最大内存:32</string>
+    <string name="loading">加载大图按钮</string>
+
+</resources>
